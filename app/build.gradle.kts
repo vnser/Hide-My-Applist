@@ -22,7 +22,7 @@ android {
     namespace = "com.tsng.hidemyapplist"
 
     defaultConfig {
-        applicationId = "com.deepseek.chat"
+        applicationId = "com.vring.hideapplist"
     }
     buildFeatures {
         buildConfig = true

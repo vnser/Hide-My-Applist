@@ -98,7 +98,7 @@
         <!-- QQ 群加入链接 -->
         <Preference
                 android:key="joinQQGroup"
-                android:title="加入搞环境QQ群: "
+                android:title="root环境交流QQ群: 1046769298"
                 android:summary="点击此处加入我们的 QQ 群进行反馈与讨论"
               />
     </PreferenceCategory>

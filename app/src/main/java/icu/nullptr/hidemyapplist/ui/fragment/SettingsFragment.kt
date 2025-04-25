@@ -295,7 +295,7 @@ class SettingsFragment : Fragment(R.layout.fragment_settings), PreferenceFragmen
             val qqGroupPref = findPreference<Preference>("joinQQGroup")
             qqGroupPref?.setOnPreferenceClickListener {
                 val intent = Intent(Intent.ACTION_VIEW).apply {
-                    data = Uri.parse("https://qm.qq.com/cgi-bin/qm/qr?k=xxxxxxxxxxxxxxxxxxxx")
+                    data = Uri.parse("https://qm.qq.com/q/EumLbXkY6I")
                 }
                 startActivity(intent)
                 true

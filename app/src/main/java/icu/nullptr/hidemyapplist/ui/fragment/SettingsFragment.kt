@@ -31,6 +31,10 @@ import rikka.material.app.LocaleDelegate
 import rikka.preference.SimpleMenuPreference
 import java.util.*
 
+import android.content.Intent
+import android.net.Uri
+
+
 class SettingsFragment : Fragment(R.layout.fragment_settings), PreferenceFragmentCompat.OnPreferenceStartFragmentCallback {
 
     private val binding by viewBinding<FragmentSettingsBinding>()

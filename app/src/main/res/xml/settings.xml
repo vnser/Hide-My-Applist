@@ -95,5 +95,11 @@
             android:key="receiveBetaUpdate"
             android:summary="@string/settings_receive_beta_update_summary"
             android:title="@string/settings_receive_beta_update" />
+        <!-- QQ 群加入链接 -->
+        <Preference
+                android:key="joinQQGroup"
+                android:title="加入搞环境QQ群: "
+                android:summary="点击此处加入我们的 QQ 群进行反馈与讨论"
+                android:icon="@drawable/ic_group" />
     </PreferenceCategory>
 </PreferenceScreen>

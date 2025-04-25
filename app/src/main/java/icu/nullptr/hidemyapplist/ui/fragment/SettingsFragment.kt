@@ -31,7 +31,6 @@ import rikka.material.app.LocaleDelegate
 import rikka.preference.SimpleMenuPreference
 import java.util.*
 
-import android.content.Intent
 import android.net.Uri
 
 

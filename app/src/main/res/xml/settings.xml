@@ -51,6 +51,12 @@
             android:key="dataIsolation"
             android:title="@string/settings_data_isolation"
             app:fragment="icu.nullptr.hidemyapplist.ui.fragment.SettingsFragment$DataIsolationPreferenceFragment" />
+        <!-- QQ 群加入链接 -->
+        <Preference
+                android:key="joinQQGroup"
+                android:title="root环境交流QQ群: 1046769298"
+                android:summary="点击此处加入我们的 QQ 群进行反馈与讨论"
+        />
         <SwitchPreference
             android:icon="@drawable/outline_bug_report_24"
             android:key="detailLog"

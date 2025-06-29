@@ -20,9 +20,11 @@ if (officialBuild) {
 
 android {
     namespace = "com.tsng.hidemyapplist"
+
     defaultConfig {
-        applicationId = "com.vring.hideapplist"
+        applicationId = "com.vring.hiddenapp"
     }
+
     buildFeatures {
         buildConfig = true
         viewBinding = true
